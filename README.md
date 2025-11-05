@@ -30,8 +30,8 @@ Built to eliminate repetitive typing in operational workflow.
 
 ## Version History
 | Version | Date | Description |
-| **v1.0** | 2025-11-01 | Initial clipboard note generator MVP |
-| **v2.0** | 2025-11-02 |Excel generator MVP - random dataset + Excel export |
-| **v2.1** | 2025-11-04 | Added in-run uniqueness (Level 1) for File Number and Tracking Number using sets and while loops |
+- | **v1.0** | 2025-11-01 | Initial clipboard note generator MVP |
+- | **v2.0** | 2025-11-02 |Excel generator MVP - random dataset + Excel export |
+- | **v2.1** | 2025-11-04 | Added in-run uniqueness (Level 1) for File Number and Tracking Number using sets and while loops |
 
 *Latest update: Excel Generator v2.1 - in-run uniqueness completed (2025-11-04)*
